@@ -1,0 +1,16 @@
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\CSharpFeatureApp\bin\Debug\CSharpFeatureApp.exe.config
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\CSharpFeatureApp\bin\Debug\CSharpFeatureApp.exe
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\CSharpFeatureApp\bin\Debug\CSharpFeatureApp.pdb
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\CSharpFeatureApp.csproj.AssemblyReference.cache
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\CSharpFeatureApp.csproj.CoreCompileInputs.cache
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\CSharpFeatureApp.exe
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\CSharpFeatureApp.pdb
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\CSharpFeatureApp\bin\Debug\Banking.dll
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\CSharpFeatureApp\bin\Debug\Deligation.dll
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\CSharpFeatureApp\bin\Debug\Penalty.dll
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\CSharpFeatureApp\bin\Debug\Taxtion.dll
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\CSharpFeatureApp\bin\Debug\Banking.pdb
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\CSharpFeatureApp\bin\Debug\Deligation.pdb
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\CSharpFeatureApp\bin\Debug\Penalty.pdb
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\CSharpFeatureApp\bin\Debug\Taxtion.pdb
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\CSharpFeatureApp\obj\Debug\CSharpFe.86C47148.Up2Date

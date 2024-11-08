@@ -1,0 +1,14 @@
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\EcommerceTest\bin\Debug\EcommerceTest.exe.config
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\EcommerceTest\bin\Debug\EcommerceTest.exe
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\EcommerceTest\bin\Debug\EcommerceTest.pdb
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\EcommerceTest\bin\Debug\CRM.dll
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\EcommerceTest\bin\Debug\CRM.pdb
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.csproj.AssemblyReference.cache
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.csproj.CoreCompileInputs.cache
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\EcommerceTest\obj\Debug\Ecommerc.A4D575A9.Up2Date
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.exe
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.pdb
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\EcommerceTest\bin\Debug\Catlog.dll
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\EcommerceTest\bin\Debug\Catlog.pdb
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\EcommerceTest\bin\Debug\OrderProcessing.dll
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\EcommerceTest\bin\Debug\OrderProcessing.pdb

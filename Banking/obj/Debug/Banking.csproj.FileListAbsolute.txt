@@ -1,0 +1,9 @@
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Banking\obj\Debug\Banking.csproj.AssemblyReference.cache
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Banking\bin\Debug\Banking.dll
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Banking\bin\Debug\Banking.pdb
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Banking\bin\Debug\Deligation.dll
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Banking\bin\Debug\Deligation.pdb
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Banking\obj\Debug\Banking.csproj.Up2Date
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Banking\obj\Debug\Banking.dll
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Banking\obj\Debug\Banking.pdb

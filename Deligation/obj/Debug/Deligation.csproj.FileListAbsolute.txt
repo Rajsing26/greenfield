@@ -1,0 +1,6 @@
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Deligation\bin\Debug\Deligation.dll
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Deligation\bin\Debug\Deligation.pdb
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Deligation\obj\Debug\Deligation.csproj.AssemblyReference.cache
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Deligation\obj\Debug\Deligation.csproj.CoreCompileInputs.cache
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Deligation\obj\Debug\Deligation.dll
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Deligation\obj\Debug\Deligation.pdb

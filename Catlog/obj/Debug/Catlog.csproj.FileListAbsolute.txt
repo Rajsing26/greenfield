@@ -1,0 +1,6 @@
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Catlog\bin\Debug\Catlog.dll
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Catlog\bin\Debug\Catlog.pdb
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Catlog\obj\Debug\Catlog.csproj.AssemblyReference.cache
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Catlog\obj\Debug\Catlog.csproj.CoreCompileInputs.cache
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Catlog\obj\Debug\Catlog.dll
+C:\Users\rajsing.jadhav\source\repos\Ecommerce\Catlog\obj\Debug\Catlog.pdb

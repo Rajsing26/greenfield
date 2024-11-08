@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Controller Index</h2>
+@{
+    foreach(EcommerceWeb1.Models.Customer c in @Model)
+            {
+                <p>@c.Id @c.Name @c.contact</p>
+            }
+ }
+

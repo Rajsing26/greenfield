@@ -1,0 +1,36 @@
+﻿@using Catlog
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Product Index</h2>
+
+<main>
+    <section class="row" aria-labelledby="aspnetTitle">
+        @{
+            //Razor Syntax
+
+            /*This is C comment */
+            string company = "Transflower";
+            <h1 id="title">@company</h1>
+
+
+
+        }
+
+        <p class="lead">Online Shopping App</p>
+        <p><a href="https://asp.net" class="btn btn-primary btn-md">Learn more &raquo;</a></p>
+    </section>
+
+    <div class="row">
+        @{
+            foreach (Product p in @Model)
+            {
+                <a href=""> @p.Name</a>
+                <img src="@p.Image" height="100" width="100" />
+                <p>  @p.Description  @p.UnitPrice</p>
+            }
+        }
+    </div>
+</main>
+
