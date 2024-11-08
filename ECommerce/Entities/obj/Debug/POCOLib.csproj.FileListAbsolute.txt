@@ -1,0 +1,6 @@
+D:\Ecommerce\greenfield\Entities\bin\Debug\Entities.dll
+D:\Ecommerce\greenfield\Entities\bin\Debug\Entities.pdb
+D:\Ecommerce\greenfield\Entities\obj\Debug\POCOLib.csproj.AssemblyReference.cache
+D:\Ecommerce\greenfield\Entities\obj\Debug\POCOLib.csproj.CoreCompileInputs.cache
+D:\Ecommerce\greenfield\Entities\obj\Debug\Entities.dll
+D:\Ecommerce\greenfield\Entities\obj\Debug\Entities.pdb

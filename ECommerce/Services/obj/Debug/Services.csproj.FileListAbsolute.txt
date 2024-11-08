@@ -1,0 +1,2 @@
+D:\Ecommerce\greenfield\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+D:\Ecommerce\greenfield\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache

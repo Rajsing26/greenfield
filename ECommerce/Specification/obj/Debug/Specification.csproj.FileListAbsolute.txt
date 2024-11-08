@@ -1,0 +1,9 @@
+D:\Ecommerce\greenfield\Specification\bin\Debug\Specification.dll
+D:\Ecommerce\greenfield\Specification\bin\Debug\Specification.pdb
+D:\Ecommerce\greenfield\Specification\bin\Debug\Entities.dll
+D:\Ecommerce\greenfield\Specification\bin\Debug\Entities.pdb
+D:\Ecommerce\greenfield\Specification\obj\Debug\Specification.csproj.AssemblyReference.cache
+D:\Ecommerce\greenfield\Specification\obj\Debug\Specification.csproj.CoreCompileInputs.cache
+D:\Ecommerce\greenfield\Specification\obj\Debug\Specific.3019C553.Up2Date
+D:\Ecommerce\greenfield\Specification\obj\Debug\Specification.dll
+D:\Ecommerce\greenfield\Specification\obj\Debug\Specification.pdb
